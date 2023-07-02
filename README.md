@@ -8,7 +8,7 @@
 ## 👋 About Me
 - :credit_card: My full name is **Vo Minh Bao**
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
-- :books: My major is **Software Engineering**
+- :books: My major is **AI Engineering**
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
 - :bulb: Best fact: ***"work smarter not harder"*** 
 
@@ -20,7 +20,7 @@
   <span><img src="https://img.shields.io/badge/Microsoft SQL Server-F8F8FF?logo=Microsoft SQL Server&logoColor=CC2927" alt="Microsoft SQL Server" title="Microsoft SQL   Server" height="25" /></span>
   &nbsp;
 <!-- FRONT-END -->
-  <span><img src="https://img.shields.io/badge/HTML5-F8F8FF?logo=HTML5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/PYTHON-F8F8FF?logo=PYTHON&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/CSS3-F8F8FF?logo=CSS3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
   &nbsp;
