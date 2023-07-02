@@ -15,12 +15,12 @@
 
 ## 🛠 Technologies and Tools
 <!-- LANGUAGES -->
-  <span><img src="https://img.shields.io/badge/Jupyter notebook-F8F8FF?logo=Jupyter&logoColor=#F37626" alt="Java logo" title="Java" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Jupyter Notebook-F8F8FF?logo=Jupyter&logoColor=#F37626" alt="Jupyter Notebook logo" title="Jupyter Notebook" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/PYTHON-F8F8FF?logo=PYTHON&logoColor=306998" alt="Python logo" title="Python" height="25" /></span>
   &nbsp;
 <!-- FRONT-END -->
-  <span><img src="https://img.shields.io/badge/PYTHON3-F8F8FF?logo=PYTHON3&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/NUMPY-F8F8FF?logo=NumPy&logoColor=#013243" alt="Numpy logo" title="Numpy" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/CSS3-F8F8FF?logo=CSS3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
   &nbsp;
