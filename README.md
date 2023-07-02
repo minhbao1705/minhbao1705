@@ -15,7 +15,7 @@
 
 ## 🛠 Technologies and Tools
 <!-- LANGUAGES -->
-  <span><img src="https://img.shields.io/badge/Jupyter note book-F8F8FF?logo=Jupyter note book&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Jupyter notebook-F8F8FF?logo=Jupyter&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/PYTHON-F8F8FF?logo=PYTHON&logoColor=306998" alt="Python logo" title="Python" height="25" /></span>
   &nbsp;
