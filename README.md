@@ -52,7 +52,7 @@
     <img width="366" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhbao1705&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <div>
-    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=kongou2002&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=minhbao1705&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </div>
 </div>
 
