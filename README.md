@@ -17,7 +17,7 @@
 <!-- LANGUAGES -->
   <span><img src="https://img.shields.io/badge/Java-F8F8FF?logo=Java&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black" alt="Python" title="Python" height="25" /></span>
   &nbsp;
 <!-- FRONT-END -->
   <span><img src="https://img.shields.io/badge/PYTHON3-F8F8FF?logo=PYTHON3&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
