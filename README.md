@@ -22,13 +22,11 @@
 <!-- FRONT-END -->
   <span><img src="https://img.shields.io/badge/NUMPY-F8F8FF?logo=NumPy&logoColor=013243" alt="Numpy logo" title="Numpy" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/CSS3-F8F8FF?logo=CSS3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/PANDAS-F8F8FF?logo=pandas&logoColor=150458" alt="pandas logo" title="pandas" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/JavaScript-F8F8FF?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/PYTORCH-F8F8FF?logo=PyTorch&logoColor=EE4C2C" alt="PyTorch logo" title="PyTorch" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Bootstrap-F8F8FF?logo=Bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/Postman-F8F8FF?logo=Postman&logoColor=FF6C37" alt="Postman" title="Postman" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/TENSORFLOW-F8F8FF?logo=tensorflow&logoColor=FF6F00" alt="tensorflow logo" title="tensorflow" height="25" /></span>
   &nbsp;
 <!-- IDE Tools -->
   <span><img src="https://img.shields.io/badge/Visual Studio Code-F8F8FF?logo=Visual Studio Code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio     Code" height="25" /></span>
