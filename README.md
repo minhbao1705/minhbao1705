@@ -6,7 +6,7 @@
 
 
 ## 👋 About Me
-- :credit_card: My full name is **Nguyen Bui Gia Chan**
+- :credit_card: My full name is **Vo Minh Bao**
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
@@ -49,7 +49,7 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <div align=center>
   <div>
-    <img width="366" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongou2002&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="366" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhbao1705&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </div>
   <div>
     <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=kongou2002&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
@@ -58,16 +58,16 @@
 
 ## 📫 How To Reach Me
 <div align="center">
-  <a href="mailto:giachan9@gmail.com" >
+  <a href="mailto:vo.minhbao9406@gmail.com" >
     <img align="center" width="40px" src="https://img.icons8.com/color/344/gmail--v1.png" />
   </a> &nbsp; 
-  <a href="https://www.facebook.com/giachan.nguyenbui" >
+  <a href="https://www.facebook.com/profile.php?id=100014231648871" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/facebook-new.png" />
   </a> &nbsp; 
-  <a href="https://github.com/Kongou2002" >
+  <a href="https://github.com/minhbao1705" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/github.png" />
   </a> &nbsp;
-  <a href="https://www.linkedin.com/in/ht-kongou-432a701a0/" >
+  <a href="" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />
   </a> &nbsp; 
 </div>
