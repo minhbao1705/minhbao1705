@@ -15,9 +15,9 @@
 
 ## 🛠 Technologies and Tools
 <!-- LANGUAGES -->
-  <span><img src="https://img.shields.io/badge/Java-F8F8FF?logo=Java&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Java-F8F8FF?logo=Jupytet note book&logoColor=239120" alt="Java logo" title="Java" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/PYTHON-F8F8FF?logo=PYTHON&logoColor=306998" alt="HTML5 logo" title="HTML5" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/PYTHON-F8F8FF?logo=PYTHON&logoColor=306998" alt="Python logo" title="Python" height="25" /></span>
   &nbsp;
 <!-- FRONT-END -->
   <span><img src="https://img.shields.io/badge/PYTHON3-F8F8FF?logo=PYTHON3&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
