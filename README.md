@@ -15,11 +15,8 @@
 
 ## 🛠 Technologies and Tools
 <!-- LANGUAGES -->
-  <span><img src="https://img.shields.io/badge/Jupyter Notebook-F8F8FF?logo=Jupyter&logoColor=#F37626" alt="Jupyter Notebook logo" title="Jupyter Notebook" height="25" /></span>
-  &nbsp;
   <span><img src="https://img.shields.io/badge/Python-F8F8FF?logo=PYTHON&logoColor=306998" alt="Python logo" title="Python" height="25" /></span>
   &nbsp;
-<!-- FRONT-END -->
   <span><img src="https://img.shields.io/badge/PyTorch-F8F8FF?logo=PyTorch&logoColor=EE4C2C" alt="PyTorch logo" title="PyTorch" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/TensorFlow-F8F8FF?logo=tensorflow&logoColor=FF6F00" alt="tensorflow logo" title="tensorflow" height="25" /></span>
@@ -28,19 +25,17 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/Pandas-F8F8FF?logo=pandas&logoColor=150458" alt="pandas logo" title="pandas" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/OpenCV-F8F8FF?logo=OpenCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
+  &nbsp;
 <!-- IDE Tools -->
   <span><img src="https://img.shields.io/badge/Visual Studio Code-F8F8FF?logo=Visual Studio Code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio     Code" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/PyCharm-F8F8FF?logo=PyCharm&logoColor=000000" alt="PyCharm logo" title="PyCharm" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Google Colab-F8F8FF?logo=Google Colab&logoColor=F9AB00" alt="Google Colab logo" title="Google Colab" height="25" />   </span>
-<!-- FRAMEWORK -->
-  <span><img src="https://img.shields.io/badge/React-F8F8FF?logo=React&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Jupyter Notebook-F8F8FF?logo=Jupyter&logoColor=#F37626" alt="Jupyter Notebook logo" title="Jupyter Notebook" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Spring Boot-F8F8FF?logo=Spring Boot&logoColor=6DB33F" alt="Spring Boot logo" title="Spring Boot" height="25" /></span>
-  &nbsp;
-  <span><img src="https://img.shields.io/badge/GitHub-F8F8FF?logo=GitHub&logoColor=181717" alt="GitHub logo" title="GitHub" height="25" /></span>
-  &nbsp;
+  
 </p>
 
 ## 🔥 My Github Stats
