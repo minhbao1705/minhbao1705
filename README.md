@@ -62,7 +62,7 @@
   <a href="https://github.com/minhbao1705" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/github.png" />
   </a> &nbsp;
-  <a href="" >
+  <a href="https://www.linkedin.com/in/v%C3%B5-b%E1%BA%A3o-b49a15274/" >
     <img align="center" width="40px" src="https://img.icons8.com/fluency/344/linkedin.png" />
   </a> &nbsp; 
 </div>
