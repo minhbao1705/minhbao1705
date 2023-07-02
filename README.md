@@ -17,23 +17,23 @@
 <!-- LANGUAGES -->
   <span><img src="https://img.shields.io/badge/Jupyter Notebook-F8F8FF?logo=Jupyter&logoColor=#F37626" alt="Jupyter Notebook logo" title="Jupyter Notebook" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/PYTHON-F8F8FF?logo=PYTHON&logoColor=306998" alt="Python logo" title="Python" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Python-F8F8FF?logo=PYTHON&logoColor=306998" alt="Python logo" title="Python" height="25" /></span>
   &nbsp;
 <!-- FRONT-END -->
-  <span><img src="https://img.shields.io/badge/NUMPY-F8F8FF?logo=NumPy&logoColor=013243" alt="Numpy logo" title="Numpy" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/PyTorch-F8F8FF?logo=PyTorch&logoColor=EE4C2C" alt="PyTorch logo" title="PyTorch" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/PANDAS-F8F8FF?logo=pandas&logoColor=150458" alt="pandas logo" title="pandas" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/TensorFlow-F8F8FF?logo=tensorflow&logoColor=FF6F00" alt="tensorflow logo" title="tensorflow" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/PYTORCH-F8F8FF?logo=PyTorch&logoColor=EE4C2C" alt="PyTorch logo" title="PyTorch" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Numpy-F8F8FF?logo=NumPy&logoColor=013243" alt="Numpy logo" title="Numpy" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/TENSORFLOW-F8F8FF?logo=tensorflow&logoColor=FF6F00" alt="tensorflow logo" title="tensorflow" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Pandas-F8F8FF?logo=pandas&logoColor=150458" alt="pandas logo" title="pandas" height="25" /></span>
   &nbsp;
 <!-- IDE Tools -->
   <span><img src="https://img.shields.io/badge/Visual Studio Code-F8F8FF?logo=Visual Studio Code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio     Code" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Apache NetBeans IDE-F8F8FF?logo=Apache NetBeans IDE&logoColor=1B6AC6" alt="Apache NetBeans IDE logo" title="Apache         NetBeans IDE" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/PyCharm-F8F8FF?logo=PyCharm&logoColor=000000" alt="PyCharm logo" title="PyCharm" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/IntelliJ IDEA-F8F8FF?logo=IntelliJ IDEA&logoColor=000000" alt="IntelliJ IDEA logo" title="IntelliJ IDEA" height="25" />   </span>
+  <span><img src="https://img.shields.io/badge/Google Colab-F8F8FF?logo=Google Colab&logoColor=F9AB00" alt="Google Colab logo" title="Google Colab" height="25" />   </span>
 <!-- FRAMEWORK -->
   <span><img src="https://img.shields.io/badge/React-F8F8FF?logo=React&logoColor=61DAFB" alt="React logo" title="React" height="25" /></span>
   &nbsp;
