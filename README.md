@@ -10,7 +10,7 @@
 - :school: I'm currently the last year student at **FPT University - Ho Chi Minh City**
 - :books: My major is **AI Engineering**
 - :earth_asia: I'm now living in **Ho Chi Minh City, Viet Nam**
-- :bulb: Best fact: ***"work smarter not harder"*** 
+- :bulb: Best fact: ***"However difficult life may seem, there is always something you can do and succeed at. It matters that you don't just give up."*** 
 
 
 ## 🛠 Technologies and Tools
@@ -21,6 +21,7 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/TensorFlow-F8F8FF?logo=tensorflow&logoColor=FF6F00" alt="tensorflow logo" title="tensorflow" height="25" /></span>
   &nbsp;
+  <!-- Library -->
   <span><img src="https://img.shields.io/badge/Numpy-F8F8FF?logo=NumPy&logoColor=013243" alt="Numpy logo" title="Numpy" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Pandas-F8F8FF?logo=pandas&logoColor=150458" alt="pandas logo" title="pandas" height="25" /></span>
