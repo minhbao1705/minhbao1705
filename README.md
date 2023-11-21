@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img align="center" height="250px" src="https://github.com/minhbao1705/minhbao1705/blob/c9c5bbe62606a207bcd8cd7a75c8a9b1f787f061/1628624506614.gif" />
+  <img align="center" height="250px" src="https://github.com/minhbao1705/minhbao1705/blob/296101bd853466dc86e467a6b01644c7ef59db17/image_processing20201130-21944-1yy5ax8.gif" />
   <img align="center" height="250px" src="https://github.com/minhbao1705/minhbao1705/blob/0dc04309a0ca2b8ca215e5c6b32147848544d028/ricardo-braga-typing.gif" />
 </div>
 
