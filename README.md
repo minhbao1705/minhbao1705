@@ -22,7 +22,7 @@
   <span><img src="https://img.shields.io/badge/TensorFlow-F8F8FF?logo=tensorflow&logoColor=FF6F00" alt="tensorflow logo" title="tensorflow" height="25" /></span>
   &nbsp;
   <!-- Library -->
-  <span><img src="https://img.shields.io/badge/Numpy-F8F8FF?logo=NumPy&logoColor=013243" alt="Numpy logo" title="Numpy" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/NumPy-F8F8FF?logo=numpy&logoColor=013243" alt="Numpy logo" title="Numpy" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Pandas-F8F8FF?logo=pandas&logoColor=150458" alt="pandas logo" title="pandas" height="25" /></span>
   &nbsp;
