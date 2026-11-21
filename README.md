@@ -33,13 +33,13 @@
   <span><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /></span>
   &nbsp;
 <!-- IDE Tools -->
-  <span><img src="https://img.shields.io/badge/Visual_Studio_Code-F8F8FF?logo=vscode&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=vscode&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/PyCharm-F8F8FF?logo=PyCharm&logoColor=000000" alt="PyCharm logo" title="PyCharm" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white" alt="PyCharm logo" title="PyCharm" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Google_Colab-F8F8FF?logo=googlecolab&logoColor=F9AB00" alt="Google Colab logo" title="Google Colab" height="25" />   </span>
+  <span><img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=white" alt="Google Colab logo" title="Google Colab" height="25" />   </span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Jupyter Notebook-F8F8FF?logo=Jupyter&logoColor=#F37626" alt="Jupyter Notebook logo" title="Jupyter Notebook" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter Notebook logo" title="Jupyter Notebook" height="25" /></span>
   &nbsp;
   
 </p>
