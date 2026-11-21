@@ -22,11 +22,11 @@
   <span><img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="tensorflow logo" title="tensorflow" height="25" /></span>
   &nbsp;
   <!-- Library -->
-  <span><img src="https://img.shields.io/badge/NumPy-F8F8FF?logo=numpy&logoColor=013243" alt="Numpy logo" title="Numpy" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="Numpy logo" title="Numpy" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Pandas-F8F8FF?logo=pandas&logoColor=150458" alt="pandas logo" title="pandas" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="pandas logo" title="pandas" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/OpenCV-F8F8FF?logo=OpenCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV logo" title="OpenCV" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFFFFF" alt="Golang" title="Golang" height="25" /></span>
   &nbsp;
