@@ -28,6 +28,10 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/OpenCV-F8F8FF?logo=OpenCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
   &nbsp;
+  <span><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=FFFFFF" alt="Golang" title="Golang" height="25" /></span>
+  &nbsp;
+  <span><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /></span>
+  &nbsp;
 <!-- IDE Tools -->
   <span><img src="https://img.shields.io/badge/Visual_Studio_Code-F8F8FF?logo=vscode&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
   &nbsp;
