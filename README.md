@@ -33,7 +33,7 @@
   &nbsp;
   <span><img src="https://img.shields.io/badge/PyCharm-F8F8FF?logo=PyCharm&logoColor=000000" alt="PyCharm logo" title="PyCharm" height="25" /></span>
   &nbsp;
-  <span><img src="https://img.shields.io/badge/Google_Colab-F8F8FF?logo=Google Colab&logoColor=F9AB00" alt="Google Colab logo" title="Google Colab" height="25" />   </span>
+  <span><img src="https://img.shields.io/badge/Google_Colab-F8F8FF?logo=googlecolab&logoColor=F9AB00" alt="Google Colab logo" title="Google Colab" height="25" />   </span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/Jupyter Notebook-F8F8FF?logo=Jupyter&logoColor=#F37626" alt="Jupyter Notebook logo" title="Jupyter Notebook" height="25" /></span>
   &nbsp;
