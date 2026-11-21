@@ -29,7 +29,7 @@
   <span><img src="https://img.shields.io/badge/OpenCV-F8F8FF?logo=OpenCV&logoColor=5C3EE8" alt="OpenCV logo" title="OpenCV" height="25" /></span>
   &nbsp;
 <!-- IDE Tools -->
-  <span><img src="https://img.shields.io/badge/Visual Studio Code-F8F8FF?logo=Visual Studio Code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio     Code" height="25" /></span>
+  <span><img src="https://img.shields.io/badge/Visual Studio Code-F8F8FF?logo=Visual Studio Code" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
   &nbsp;
   <span><img src="https://img.shields.io/badge/PyCharm-F8F8FF?logo=PyCharm&logoColor=000000" alt="PyCharm logo" title="PyCharm" height="25" /></span>
   &nbsp;
